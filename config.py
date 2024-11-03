@@ -1,7 +1,5 @@
 import os
 
-from migrations.env import config
-
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 class Config:
